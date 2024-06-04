@@ -108,3 +108,10 @@ console.log(fruits.slice(3));
 
 let  Fruits = ["banana","mango",'apple',"graps",'watermellon'];
 console.log(Fruits.splice(2));
+
+let resultOfComputation = (2 * 4) * 4 + 2;//34
+
+resultOfComputation = ((2 * 4) * 4) + 2;
+console.log(resultOfComputation);
+
+let UserName = "Wasifa";
